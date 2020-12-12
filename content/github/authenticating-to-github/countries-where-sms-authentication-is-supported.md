@@ -99,7 +99,7 @@ If your country is not on this list, then we aren't currently able to reliably d
 <li>Portugal</li>
 <li>Qatar</li>
 <li>Romania</li>
-<li>Russia</li>
+
 <li>Rwanda</li>
 <li>Senegal</li>
 <li>Serbia</li>
